@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-26T17:07:16Z" name="Cucumber Test Suite" finished-at="2025-10-26T17:11:14Z" duration-ms="237556">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2025-10-26T17:07:16Z" name="Cucumber Tests" finished-at="2025-10-26T17:11:14Z" duration-ms="237556">
+      <class name="tests.Cucumber_testrunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:07:16Z" name="setUpClass" finished-at="2025-10-26T17:07:17Z" duration-ms="882" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@241fc278]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:07:17Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:09:32Z" duration-ms="134928" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["browser initialization"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:09:32Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:09:40Z" duration-ms="8349" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["browser initialization"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:09:40Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:09:43Z" duration-ms="2442" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Open url"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:09:43Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:09:44Z" duration-ms="1475" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Open url"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:09:44Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:09:46Z" duration-ms="1789" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Registration"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:09:46Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:09:47Z" duration-ms="989" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Registration"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:09:47Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:09:49Z" duration-ms="2478" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Register"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:09:49Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:09:52Z" duration-ms="2942" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Register"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:09:52Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:09:56Z" duration-ms="3381" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Logout to Login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:09:56Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:09:58Z" duration-ms="1935" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Logout to Login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:09:58Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:09:59Z" duration-ms="1137" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Open login page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:09:59Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:10:00Z" duration-ms="861" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Open login page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:10:00Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:10:02Z" duration-ms="2695" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:10:02Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:10:05Z" duration-ms="2580" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:10:05Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:10:05Z" duration-ms="449" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Counting number of links"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:10:05Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:10:06Z" duration-ms="306" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Counting number of links"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:10:06Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:10:37Z" duration-ms="31823" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Opening each link in list on"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:10:38Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:11:09Z" duration-ms="31625" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Opening each link in list on"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:11:09Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:11:11Z" duration-ms="2291" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Logout"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:11:11Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-26T17:11:14Z" duration-ms="2117" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Logout"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Initializing different web browsers"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:tests.Cucumber_testrunner@272ed83b]" started-at="2025-10-26T17:11:14Z" name="tearDownClass" finished-at="2025-10-26T17:11:14Z" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- tests.Cucumber_testrunner -->
+    </test> <!-- Cucumber Tests -->
+  </suite> <!-- Cucumber Test Suite -->
+</testng-results>
